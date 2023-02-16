@@ -1,6 +1,10 @@
 ### Hi there 👋
 
-##this is a new line
+###this is a new line
+
+this is alright and working fine i guess
+
+new to this thing here
 
 <!--
 **machapak/machapak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

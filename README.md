@@ -4,7 +4,9 @@
 
 this is alright and working fine i guess
 
-new to this thing here
+this is to check git pull in ec2 instance 
+
+hope it works 
 
 <!--
 **machapak/machapak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
